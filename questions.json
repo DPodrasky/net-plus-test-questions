@@ -1,0 +1,65 @@
+{
+"questions" :[
+ {
+   "cat": "Windows Name Resolution",
+   "q": "What does nbtstat -R do?",
+   "a": "nbtstat -R purges the remote cache table.",
+   "a1": "Nbtstat -R shows network records.",
+   "a2": "It removes nbtstat from your computer",
+   "a3": "It remembers your last nbtstat command for later use.",
+   "a4": "nbtstat -R purges the remote cache table.",
+   "details": ""
+ } ,
+  {
+   "cat": "Windows Name Resolution",
+    "q": "What does nbtstat -RR do?",
+    "a": "nbtstat -RR rebroadcasts all of your registered info and re-establishes those communications.",
+    "a1": "Nbtstat -R shows network records.",
+   "a2": "It removes nbtstat from your computer",
+   "a3": "It remembers your last nbtstat command for later use.",
+   "a4": "nbtstat -R purges the remote cache table.",
+    "details": ""
+ },
+  {
+    "cat": "Windows Name Resolution",
+    "q": "What is a registered name?",
+    "a": "A registered name is a non-duplicated name that is only registered to that specific system.",
+    "a1": "Nbtstat -R shows network records.",
+   "a2": "It removes nbtstat from your computer",
+   "a3": "It remembers your last nbtstat command for later use.",
+   "a4": "nbtstat -R purges the remote cache table.",
+    "details": ""
+  },
+  {
+    "cat": "Windows Name Resolution",
+    "q": "How can you find your system's registered name?",
+    "a": "nbtstat -n will produce your system's registered name, group, and functionality.",
+    "a1": "Nbtstat -R shows network records.",
+   "a2": "It removes nbtstat from your computer",
+   "a3": "It remembers your last nbtstat command for later use.",
+   "a4": "nbtstat -R purges the remote cache table.",
+    "details": ""
+  },
+  {
+    "cat": "Windows Name Resolution",
+    "q": "What does --MSBrowse-- surrounded by two smiley emojis mean?",
+    "a":"It means that computer is the browser manager.",
+    "a1": "Nbtstat -R shows network records.",
+   "a2": "It removes nbtstat from your computer",
+   "a3": "It remembers your last nbtstat command for later use.",
+   "a4": "nbtstat -R purges the remote cache table.",
+    "details": ""
+  },
+  {
+    "cat": "Windows Name Resolution",
+    "q": "What is nbtstat?",
+    "a": "It's a good tool for troubleshooting network issues.",
+    "a1": "It's a pill for high blood pressure.",
+    "a2": "It's a good tool for troubleshooting network issues.",
+    "a3": "It's a tool the always works well with LLMNR",
+    "a4": "It's a network t/s tool that does not have any obsolete commands. All of its commmands work perfectly.",
+    "details": "It does not work well with LLMNR. Many commands don't work anymore or are useless."
+  }
+  
+]
+}

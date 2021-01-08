@@ -14,10 +14,10 @@
    "cat": "Windows Name Resolution",
     "q": "What does nbtstat -RR do?",
     "a": "nbtstat -RR rebroadcasts all of your registered info and re-establishes those communications.",
-    "a1": "Nbtstat -R shows network records.",
+    "a1": "Nbtstat -RR shows network records.",
    "a2": "nbtstat -RR rebroadcasts all of your registered info and re-establishes those communications.",
    "a3": "It remembers your last nbtstat command for later use.",
-   "a4": "nbtstat -R purges the remote cache table.",
+   "a4": "nbtstat -RR purges the remote cache table.",
     "details": ""
  },
   {
